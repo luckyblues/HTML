@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#igs{
+	margin:0 auto;
+	width:1000px;
+	height:665px;
+	line-height:665px;
+}
+.ig{
+	position:absolute;
+}
+.btn{
+	position:absolute;
+	width:60px;
+	height:100px;
+	color:#fff;
+	font-size:60px;
+	background:rgba(0,0,0,0.5);
+	text-align:center;
+	line-height:100px;
+	top:283px;
+	left:168px;
+	cursor:pointer;
+}
+.btn2{
+	left:1106px;
+}
+#tabs{
+	position:absolute;
+	top:570px;
+	left:560px;
+	float:right;
+}
+.tab{
+	color:#fff;
+	text-align:center;
+	background-color:#00F;
+	width:40px;
+	height:40px;
+	float:left;
+	border-radius:100%;
+	line-height:40px;
+	margin-left:10px;
+	cursor:pointer;
+}
+.bg{
+	background-color:#F00;
+}
+	
+
