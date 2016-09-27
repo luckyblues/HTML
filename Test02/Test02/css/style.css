@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	font-family:"微软雅黑";
+	font-size:18px;
+}
+body{
+	background:#fff;
+}
+ul{
+	list-style:none;
+}
+a{
+	color:#1F1F1F;
+	text-decoration:none;
+}
+.litem{
+	width:227px;
+}
+.litem > a{
+	height:41px;
+	padding-left:5px;
+	background:#B5CC89;
+	display:block;
+	margin-top:2px;
+	border-left:solid 12px #3E7421;
+	line-height:41px;
+}
+.uitem li{
+	border-bottom:solid 1px #999999;
+	<!--display:none;-->
+}
+.uitem  a{
+	height:41px;
+	padding-left:5px;
+	background:#DFEBBC;
+	display:block;
+	line-height:41px;
+	border:solid 1px #fff;
+	padding-left:20px;
+}
