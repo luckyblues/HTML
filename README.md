@@ -15,3 +15,6 @@ Test03省市县三级联动页面
 
 Test04图片列表悬浮展示层
 ![images](https://github.com/luckyblues/HTML/blob/master/Test04/shootscreen/QQ20160927210758.jpg)
+
+Test05小米商品展示
+![images](https://github.com/luckyblues/HTML/blob/master/Test05/QQ20160928101454.png)
